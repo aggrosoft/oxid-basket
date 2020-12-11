@@ -6,7 +6,7 @@ $aModule = array(
     'id'           => 'agoxidbasket',
     'title'        => 'Aggrosoft Warenkorb',
     'description'  => 'Verbessert Optik und Usability des standard Warenkorbs',
-    'version'      => '1.0',
+    'version'      => '1.0.1',
     'author'       => 'Aggrosoft GmbH',
     'controllers'  => [
 
